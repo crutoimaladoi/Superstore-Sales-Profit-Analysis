@@ -91,18 +91,15 @@ Learned how to have real-world thinking approach for business analytics
 
 Here is some screenshots of the graphs
 
-<img width="651" height="452" alt="Screenshot 2026-05-23 122122" src="https://github.com/user-attachments/assets/d0c0c536-343a-4b67-a322-bd6229048616" />
+<img width="651" height="452" alt="Screenshot 2026-05-23 122122" src="https://github.com/user-attachments/assets/ec2eaeb5-7990-48c4-b87c-514f1237638e" />
 
-<img width="646" height="444" alt="Screenshot 2026-05-23 122440" src="https://github.com/user-attachments/assets/37fd691c-581f-4c71-9ae0-9583e2509ebe" />
+<img width="649" height="447" alt="Screenshot 2026-05-23 122423" src="https://github.com/user-attachments/assets/20e0298f-506b-401e-a478-ddbdceab9724" />
 
-<img width="646" height="444" alt="Screenshot 2026-05-23 122440" src="https://github.com/user-attachments/assets/b66d62bb-fe53-48d3-9127-968e9709689e" />
+<img width="646" height="444" alt="Screenshot 2026-05-23 122440" src="https://github.com/user-attachments/assets/03c7bbc1-4b98-4f41-b4aa-f607b0215267" />
 
+<img width="648" height="447" alt="Screenshot 2026-05-23 122457" src="https://github.com/user-attachments/assets/22749823-8f5f-496b-a39b-2e7068a918e3" />
 
-<img width="361" height="219" alt="Screenshot 2026-05-23 122449" src="https://github.com/user-attachments/assets/71eed563-5592-40a7-8d57-bcfd64f214f1" />
+<img width="648" height="447" alt="Screenshot 2026-05-23 122507" src="https://github.com/user-attachments/assets/de0293d1-8ea5-4ea1-8bd5-3a9ed9936ac0" />
 
-<img width="648" height="447" alt="Screenshot 2026-05-23 122507" src="https://github.com/user-attachments/assets/1fdb6140-40a3-4cb0-bd8c-8f794bdc963c" />
-
-<img width="647" height="445" alt="Screenshot 2026-05-23 122516" src="https://github.com/user-attachments/assets/6d9ec73c-a8b5-446b-83bf-cd85ba158efe" />
-
-<img width="647" height="447" alt="Screenshot 2026-05-23 122526" src="https://github.com/user-attachments/assets/4d08897e-15e0-42a6-88b9-5ee536d94f51" />
+<img width="647" height="447" alt="Screenshot 2026-05-23 122526" src="https://github.com/user-attachments/assets/41dfe15c-e2d4-4297-8b7e-24dcc47e345f" />
 

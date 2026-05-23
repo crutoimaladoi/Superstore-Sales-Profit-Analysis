@@ -95,7 +95,8 @@ Here is some screenshots of the graphs
 
 <img width="646" height="444" alt="Screenshot 2026-05-23 122440" src="https://github.com/user-attachments/assets/37fd691c-581f-4c71-9ae0-9583e2509ebe" />
 
-<img width="649" height="447" alt="Screenshot 2026-05-23 122423" src="https://github.com/user-attachments/assets/6b1e60eb-8326-494f-87f6-0c790c1a958d" />
+<img width="646" height="444" alt="Screenshot 2026-05-23 122440" src="https://github.com/user-attachments/assets/b66d62bb-fe53-48d3-9127-968e9709689e" />
+
 
 <img width="361" height="219" alt="Screenshot 2026-05-23 122449" src="https://github.com/user-attachments/assets/71eed563-5592-40a7-8d57-bcfd64f214f1" />
 
